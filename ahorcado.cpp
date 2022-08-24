@@ -14,6 +14,11 @@ int main()
 
     cout << "Configure la frase a adivinar:";
     getline(cin, answer);
+#ifdef _WIN32
+    system("cls");
+#else
+    system("clear");
+#endif
     for (char c : answer)
     {
         if (c == ' ')
