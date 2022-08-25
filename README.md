@@ -20,6 +20,7 @@ $ g++ Triple_de_Pitágoras.cpp -o play
 ```
 #### windows
 ```
+c++ Triple_de_Pitágoras.cpp -o play.exe
 ```
 ## ejecucion
 #### linux
@@ -28,6 +29,7 @@ $ ./play
 ```
 #### windows
 ```
+play.exe
 ```
 ## Resultados
 se imprimira en consola solo los triangulos que cumplan con las reglas del tripe pitagorico. osease que la suma del cateto adyacente elevado al cuadrado con el cateto opouesto elevado al cuadrado sea igual a la hipotenusa elevado al cuadrado.
@@ -96,6 +98,7 @@ $ g++ ahorcado.cpp -o play
 ```
 #### windows
 ```
+c++ ahorcado.cpp -o play.exe
 ```
 ## ejecucion
 #### linux
@@ -104,6 +107,7 @@ $ ./play
 ```
 #### windows
 ```
+play.exe
 ```
 ### configurar
 El juego del ahorcado consiste en advinar una frase. lo primero que nos pedira el programa sera ingresar la frase secreta.
@@ -134,6 +138,7 @@ $ python3.9 ./Triple_de_Pitágoras.py
 ```
 #### windows
 ```
+python Triple_de_Pitágoras.py
 ```
 ## Resultados
 se imprimira en consola solo los triangulos que cumplan con las reglas del tripe pitagorico. osease que la suma del cateto adyacente elevado al cuadrado con el cateto opouesto elevado al cuadrado sea igual a la hipotenusa elevado al cuadrado.
@@ -204,6 +209,9 @@ A^2 + C^2 = B^2
 $ python3.9 ./ahorcado.py 
 ```
 #### windows
+```
+python ahorcado.py
+```
 ### configuracion
 El juego del ahorcado consiste en advinar una frase. lo primero que nos pedira el programa sera ingresar la frase secreta.
 ```
