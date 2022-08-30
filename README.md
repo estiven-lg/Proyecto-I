@@ -13,6 +13,7 @@ git clone https://github.com/estiven-lg/Proyecto-I.git
 - Juego del ahorcado (Python)
 ---
 ## Triple de Pitágoras (C++)
+- video: https://youtu.be/JMKDwWT6NUI
 ### crear ejecutable
 #### linux
 ```
@@ -91,6 +92,7 @@ output:
 ```
 ---
 ## Juego del ahorcado  (C++)
+- video: https://youtu.be/3PWr_zbubw8
 ### crear ejecutable
 #### linux
 ```
@@ -131,6 +133,7 @@ output:
 ```
 ---
 ## Triple de Pitágoras (Python)
+- video: https://youtu.be/dPUcF-flFVE
 ## ejecucion
 #### linux
 ```
@@ -203,6 +206,7 @@ A^2 + C^2 = B^2
 ```
 ---
 ## Juego del ahorcado (Python)
+- video: https://youtu.be/Q2BAZaI8Unk
 ## ejecucion
 #### linux
 ```
